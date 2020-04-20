@@ -1,4 +1,4 @@
-# shi
+# SupHero
 
 ## Project setup
 ```
