@@ -59,7 +59,7 @@
         <v-pagination
           v-model="currentPage"
           :per-page="perPage"
-          :length="25"
+          :length="20"
           @input="paginate(currentPage)"
           prev-icon="mdi-menu-left"
           next-icon="mdi-menu-right"
